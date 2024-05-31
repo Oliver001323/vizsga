@@ -1,1 +1,2 @@
 # vizsga
+üzemeltető vizsga
